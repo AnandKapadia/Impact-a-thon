@@ -12,7 +12,7 @@ Sarika Bajaj, Namrita Murali, Gaurav Lahiry, Ananya Chandra, Anand Kapadia
   * A “sticker” that will relay a different “number” of info, or will it relay a song/pulsing signal?
 
 
-![alt text](IMG_2897.jpg)
+![alt text](IMG_2897.JPG)
 
 ## Bill of Materials
 * Arduino Uno
