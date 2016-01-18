@@ -12,8 +12,7 @@ Sarika Bajaj, Namrita Murali, Gaurav Lahiry, Ananya Chandra, Anand Kapadia
   * A “sticker” that will relay a different “number” of info, or will it relay a song/pulsing signal?
 
 
-For the future, images can be added like this:
-![alt text](image.jpg)
+![alt text](IMG_2897.jpg)
 
 ## Bill of Materials
 * Arduino Uno
@@ -33,5 +32,7 @@ Arduino library for MP3 Shield:
 
 https://github.com/madsci1016/Sparkfun-MP3-Player-Shield-Arduino-Library
 
-## Presentation Description
---an abstract of the project will go here. Pictures and link to ppt or poster will go here as well--
+## Presentation 
+![alt text](IMG_2908.jpg)
+![alt text](IMG_2899.jpg)
+![alt text](IMG_2896.jpg)
