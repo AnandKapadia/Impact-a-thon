@@ -35,4 +35,3 @@ https://github.com/madsci1016/Sparkfun-MP3-Player-Shield-Arduino-Library
 ## Presentation 
 ![alt text](IMG_2908.jpg)
 ![alt text](IMG_2899.jpg)
-![alt text](IMG_2896.jpg)
