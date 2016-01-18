@@ -33,7 +33,5 @@ Arduino library for MP3 Shield:
 
 https://github.com/madsci1016/Sparkfun-MP3-Player-Shield-Arduino-Library
 
---a table of contents of code that we will use will go here later--
-
 ## Presentation Description
 --an abstract of the project will go here. Pictures and link to ppt or poster will go here as well--
