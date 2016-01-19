@@ -1,6 +1,6 @@
 # Impact-A-Thon: Thinking Cap
 ####A project to enable mentally disabled children to fully enjoy public playgrounds.
-Sarika Bajaj, Namrita Murali, Gaurav Lahiry, Ananya Chandra, Anand Kapadia
+Anand Kapadia, Sarika Bajaj, Namrita Murali, Gaurav Lahiry, Ananya Chandra
 
 ## Product Specification
 
