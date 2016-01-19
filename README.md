@@ -24,9 +24,6 @@ Sarika Bajaj, Namrita Murali, Gaurav Lahiry, Ananya Chandra, Anand Kapadia
 * Gloves
 * Beanie
 
-## Hardware Specifications
---an image of our full circuit will be loaded here later--
-
 ## Software Specifications
 Arduino library for MP3 Shield:
 
